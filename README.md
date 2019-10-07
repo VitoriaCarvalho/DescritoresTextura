@@ -1,1 +1,3 @@
 # DescritoresTextura
+
+Requisitos: Anaconda + TensorFlow
